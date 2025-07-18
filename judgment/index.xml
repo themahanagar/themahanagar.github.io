@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Judgments on महानगर (लखनऊ)</title>
+    <link>http://localhost:1313/judgment/</link>
+    <description>Recent content in Judgments on महानगर (लखनऊ)</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 May 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/judgment/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Supreme Court Judgments</title>
+      <link>http://localhost:1313/judgment/supreme/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/judgment/supreme/</guid>
+      <description>&lt;p&gt;Recent judgments by the Honourable Supreme Court of India.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Delhi High Court Judgments</title>
+      <link>http://localhost:1313/judgment/delhi/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/judgment/delhi/</guid>
+      <description>&lt;p&gt;Recent judgments by the Honourable Delhi High Court.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Allahabad High Court Judgments</title>
+      <link>http://localhost:1313/judgment/allahabad/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/judgment/allahabad/</guid>
+      <description>&lt;p&gt;Recent judgments by the Honourable Allahabad High Court.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Bombay High Court Judgments</title>
+      <link>http://localhost:1313/judgment/bombay/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/judgment/bombay/</guid>
+      <description>&lt;p&gt;Recent judgments by the Honourable Bombay High Court.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Uttarakhand High Court Judgments</title>
+      <link>http://localhost:1313/judgment/uttarakhand/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/judgment/uttarakhand/</guid>
+      <description>&lt;p&gt;Recent judgments by the Honourable Uttarakhand High Court.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Madhya Pradesh High Court Judgments</title>
+      <link>http://localhost:1313/judgment/mp/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/judgment/mp/</guid>
+      <description>&lt;p&gt;Recent judgments by the Honourable Madhya Pradesh High Court.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Rajasthan High Court Judgments</title>
+      <link>http://localhost:1313/judgment/rajasthan/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/judgment/rajasthan/</guid>
+      <description>&lt;p&gt;Recent judgments by the Honourable Rajasthan High Court.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

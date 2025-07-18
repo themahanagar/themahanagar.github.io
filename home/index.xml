@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on महानगर (लखनऊ)</title>
+    <link>https://themahanagar.com/home/</link>
+    <description>Recent content in Homes on महानगर (लखनऊ)</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 18 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://themahanagar.com/home/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>वंशावली</title>
+      <link>https://themahanagar.com/home/pedigree/</link>
+      <pubDate>Fri, 18 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://themahanagar.com/home/pedigree/</guid>
+      <description>&lt;p&gt;Lists seven generations of Mahanagar and counting &amp;hellip;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>स्मृतियाँ</title>
+      <link>https://themahanagar.com/home/memories/</link>
+      <pubDate>Fri, 18 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://themahanagar.com/home/memories/</guid>
+      <description>&lt;p&gt;Memories of Mahanagar - Events and compilations &amp;hellip;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
