@@ -2,35 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/home/pedigree/</loc>
+    <loc>https://themahanagar.com/home/pedigree/</loc>
     <lastmod>2025-07-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/memories/</loc>
+    <loc>https://themahanagar.com/memories/</loc>
     <lastmod>2025-07-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/pedigree/</loc>
+    <loc>https://themahanagar.com/pedigree/</loc>
     <lastmod>2025-07-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/home/memories/</loc>
+    <loc>https://themahanagar.com/home/memories/</loc>
     <lastmod>2025-07-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/home/writings/</loc>
+    <loc>https://themahanagar.com/home/writings/</loc>
     <lastmod>2025-07-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/home/artifacts/</loc>
+    <loc>https://themahanagar.com/home/artifacts/</loc>
     <lastmod>2025-07-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/home/aphorism/</loc>
+    <loc>https://themahanagar.com/home/aphorism/</loc>
     <lastmod>2025-07-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/home/</loc>
+    <loc>https://themahanagar.com/home/</loc>
     <lastmod>2025-07-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://themahanagar.com/</loc>
     <lastmod>2025-07-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://themahanagar.com/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://themahanagar.com/tags/</loc>
   </url>
 </urlset>
