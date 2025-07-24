@@ -1,0 +1,62 @@
+{{ define "main" }}
+<div class="col-xs-12 col-sm-8 col-md-9 content-column white-background">
+  {{ partial "mobile_nav_toggle.html" . }}
+  <div class="row">
+    <div class="col-lg-8">
+      <div class="content-column-content">
+         <h1>{{ .Title }}</h1>
+         <hr/>
+         {{ .Content }}
+         {{ if .Params.slides }}
+         {{ range $.Param .Params.slidesKey }}
+           <img class="slides" src= {{ . }}>
+         {{ end }}
+           <!-- <img class="slides" src="/images/topic/adjuvants.jpeg">
+           <img class="slides" src="/images/topic/anatomy.jpeg">
+           <img class="slides" src="/images/topic/biostatistics.jpeg">
+           <img class="slides" src="/images/topic/cataract.jpeg">
+           <div class="slides">
+             <h1><b>Did You Know?</b></h1>
+             <h1><i>We plan to sell trips to the moon in the 2020s</i></h1>
+           </div> -->
+           <div class = "slide-control">
+             <button class="w3-button" onclick="plusDivs(-1)">&#10094; Prev</button>
+             <div id = "slide-page" class="w3-button"></div>
+             <button class="w3-button" onclick="plusDivs(1)">Next &#10095;</button>
+           </div>
+           <!-- Slide Viewer Start -->
+           <script>
+             var slideIndex = 1;
+             showDivs(slideIndex);
+
+             function plusDivs(n) {
+               showDivs(slideIndex += n);
+             }
+
+             function currentDiv(n) {
+               showDivs(slideIndex = n);
+             }
+
+             function showDivs(n) {
+                var idx;
+                var sl = document.getElementsByClassName("slides");
+                var p = document.getElementById("slide-page");
+                if (n > sl.length) {slideIndex = 1}
+                if (n < 1) {slideIndex = sl.length} ;
+                for (idx = 0; idx < sl.length; idx++) {
+                  sl[idx].style.display = "none";
+                }
+                sl[slideIndex-1].style.display = "block";
+                p.innerHTML = "".concat(slideIndex, " / ", sl.length);
+              }
+            </script>
+            <!-- Slide Viewer End -->
+         {{ end }}
+         <hr/>
+         <a href = "/osce/about">About</a> &nbsp; | &nbsp; <a href = "/osce">List of OSCE(s)</a>
+         <hr/>
+      </div>
+    </div>
+  </div>
+</div>
+{{ end }}

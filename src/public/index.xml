@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>महानगर (लखनऊ)</title>
+    <link>https://themahanagar.com/</link>
+    <description>Recent content on महानगर (लखनऊ)</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 19 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://themahanagar.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>वंशावली</title>
+      <link>https://themahanagar.com/home/pedigree/</link>
+      <pubDate>Sat, 19 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://themahanagar.com/home/pedigree/</guid>
+      <description>&lt;p&gt;Lists seven generations of Mahanagar and counting &amp;hellip;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>स्मृतियाँ</title>
+      <link>https://themahanagar.com/home/memories/</link>
+      <pubDate>Sat, 19 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://themahanagar.com/home/memories/</guid>
+      <description>&lt;p&gt;Memories of Mahanagar - Events and compilations &amp;hellip;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>लेख</title>
+      <link>https://themahanagar.com/home/writings/</link>
+      <pubDate>Sat, 19 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://themahanagar.com/home/writings/</guid>
+      <description>&lt;p&gt;Writings, documentations, and history &amp;hellip;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>सूक्तियां</title>
+      <link>https://themahanagar.com/home/aphorism/</link>
+      <pubDate>Sat, 19 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://themahanagar.com/home/aphorism/</guid>
+      <description>&lt;p&gt;Short phrases, sayings that give lessons of life &amp;hellip;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>वस्तुएं</title>
+      <link>https://themahanagar.com/home/artifacts/</link>
+      <pubDate>Sat, 19 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://themahanagar.com/home/artifacts/</guid>
+      <description>&lt;p&gt;Artifacts, objects, and items &amp;hellip;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>सैर</title>
+      <link>https://themahanagar.com/home/trips/</link>
+      <pubDate>Sat, 19 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://themahanagar.com/home/trips/</guid>
+      <description>&lt;p&gt;Trips, journeys, travel, and memories &amp;hellip;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
